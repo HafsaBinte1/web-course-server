@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuHAQ2Tie19Q0LPtSnhh4TxiNu1ByOV0zWi5MZNr7aCQ&s",
+        "name": "HTML",
+        "details": "HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the content.",
+        "price": 600
+    },
+    {
+        "id": "2",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
+        "name": "CSS",
+        "details": "CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.",
+        "price": 1100
+    },
+    {
+        "id": "3",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png",
+        "name": "Bootstrap",
+        "details": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs",
+        "price": 1500
+    },
+    {
+        "id": "4",
+        "img": "https://tailwindcss.com/_next/static/media/social-card-large.a6e71726.jpg",
+        "name": "Tailwind",
+        "details": "Tailwind CSS makes it quicker to write and maintain the code of your application. By using this utility-first framework, you don't have to write custom CSS to style your application. Instead, you can use utility classes to control the padding, margin, color, font, shadow, and more of your application.",
+        "price": 1800
+    },
+    {
+        "id": "5",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
+        "name": "JavaScript",
+        "details": "JavaScript often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.",
+        "price": 2500
+    },
+    {
+        "id": "6",
+        "img": "https://cdn-icons-png.flaticon.com/512/5968/5968332.png",
+        "name": "PHP",
+        "details": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993 and released in 1995.The PHP reference implementation is now produced by The PHP Group.[9] PHP originally stood for Personal Home Page, but it now stands for the recursive initialism PHP: Hypertext Preprocessor.",
+        "price": 4000
+    }
+]
