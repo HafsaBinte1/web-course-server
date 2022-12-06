@@ -9,7 +9,7 @@ const products = require('./data/products.json');
 
 
 app.get('/', (req, res) => {
-    res.send('web  API running');
+    res.send('web course API running');
 }
 );
 
